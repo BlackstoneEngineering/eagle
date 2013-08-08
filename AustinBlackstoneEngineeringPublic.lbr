@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.3">
+<eagle version="6.5.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -736,6 +736,77 @@ Useful for Surfacemount 100mil Launchpad Headers</description>
 <vertex x="12.065" y="-0.635"/>
 </polygon>
 </package>
+<package name="XBEE_HEADERS">
+<description>XBee Headers.
+2x10
+2mm Headers
+22mm Apart
+Samtec part number SQT-110-03-F-S</description>
+<wire x1="2.5603" y1="20.946" x2="2.5603" y2="0.494" width="0.127" layer="51"/>
+<wire x1="2.5603" y1="0.494" x2="0.5597" y2="0.494" width="0.127" layer="51"/>
+<wire x1="0.5597" y1="0.494" x2="0.5597" y2="20.946" width="0.127" layer="51"/>
+<wire x1="0.5597" y1="20.946" x2="2.5603" y2="20.946" width="0.127" layer="51"/>
+<wire x1="3.0683" y1="21.454" x2="3.0683" y2="-0.014" width="0.127" layer="21"/>
+<wire x1="3.0683" y1="-0.014" x2="0.0517" y2="-0.014" width="0.127" layer="21"/>
+<wire x1="0.0517" y1="-0.014" x2="0.0517" y2="21.454" width="0.127" layer="21"/>
+<wire x1="0.0517" y1="21.454" x2="3.0683" y2="21.454" width="0.127" layer="21"/>
+<pad name="5" x="1.56" y="11.8" drill="0.9144" diameter="1.3716" rot="R270"/>
+<pad name="10" x="1.56" y="1.8" drill="0.9144" diameter="1.3716" rot="R270"/>
+<pad name="4" x="1.56" y="13.8" drill="0.9144" diameter="1.3716" rot="R270"/>
+<pad name="9" x="1.56" y="3.8" drill="0.9144" diameter="1.3716" rot="R270"/>
+<pad name="3" x="1.56" y="15.8" drill="0.9144" diameter="1.3716" rot="R270"/>
+<pad name="8" x="1.56" y="5.8" drill="0.9144" diameter="1.3716" rot="R270"/>
+<pad name="2" x="1.56" y="17.8" drill="0.9144" diameter="1.3716" rot="R270"/>
+<pad name="7" x="1.56" y="7.8" drill="0.9144" diameter="1.3716" rot="R270"/>
+<pad name="1" x="1.56" y="19.8" drill="0.9144" diameter="1.3716" rot="R270"/>
+<pad name="6" x="1.56" y="9.8" drill="0.9144" diameter="1.3716" rot="R270"/>
+<text x="3.858" y="19.098" size="1.27" layer="25" rot="R270">&gt;NAME</text>
+<text x="-1.504" y="18.848" size="1.27" layer="27" rot="R270">&gt;VALUE</text>
+<wire x1="24.6303" y1="20.946" x2="24.6303" y2="0.494" width="0.127" layer="51"/>
+<wire x1="24.6303" y1="0.494" x2="22.6297" y2="0.494" width="0.127" layer="51"/>
+<wire x1="22.6297" y1="0.494" x2="22.6297" y2="20.946" width="0.127" layer="51"/>
+<wire x1="22.6297" y1="20.946" x2="24.6303" y2="20.946" width="0.127" layer="51"/>
+<wire x1="25.1383" y1="21.454" x2="25.1383" y2="-0.014" width="0.127" layer="21"/>
+<wire x1="25.1383" y1="-0.014" x2="22.1217" y2="-0.014" width="0.127" layer="21"/>
+<wire x1="22.1217" y1="-0.014" x2="22.1217" y2="21.454" width="0.127" layer="21"/>
+<wire x1="22.1217" y1="21.454" x2="25.1383" y2="21.454" width="0.127" layer="21"/>
+<pad name="16" x="23.63" y="11.8" drill="0.9144" diameter="1.3716" rot="R270"/>
+<pad name="11" x="23.63" y="1.8" drill="0.9144" diameter="1.3716" rot="R270"/>
+<pad name="17" x="23.63" y="13.8" drill="0.9144" diameter="1.3716" rot="R270"/>
+<pad name="12" x="23.63" y="3.8" drill="0.9144" diameter="1.3716" rot="R270"/>
+<pad name="18" x="23.63" y="15.8" drill="0.9144" diameter="1.3716" rot="R270"/>
+<pad name="13" x="23.63" y="5.8" drill="0.9144" diameter="1.3716" rot="R270"/>
+<pad name="19" x="23.63" y="17.8" drill="0.9144" diameter="1.3716" rot="R270"/>
+<pad name="14" x="23.63" y="7.8" drill="0.9144" diameter="1.3716" rot="R270"/>
+<pad name="20" x="23.63" y="19.8" drill="0.9144" diameter="1.3716" rot="R270"/>
+<pad name="15" x="23.63" y="9.8" drill="0.9144" diameter="1.3716" rot="R270"/>
+<text x="25.928" y="19.098" size="1.27" layer="25" rot="R270">&gt;NAME</text>
+<text x="20.566" y="18.848" size="1.27" layer="27" rot="R270">&gt;VALUE</text>
+</package>
+<package name="1X10_2MM_SQT_HEADER">
+<description>2mm 1x10 headers 
+Samtec part SQT-110-03-F-S</description>
+<wire x1="-7.896" y1="1.0003" x2="12.556" y2="1.0003" width="0.127" layer="51"/>
+<wire x1="12.556" y1="1.0003" x2="12.556" y2="-1.0003" width="0.127" layer="51"/>
+<wire x1="12.556" y1="-1.0003" x2="-7.896" y2="-1.0003" width="0.127" layer="51"/>
+<wire x1="-7.896" y1="-1.0003" x2="-7.896" y2="1.0003" width="0.127" layer="51"/>
+<wire x1="-8.404" y1="1.5083" x2="13.064" y2="1.5083" width="0.127" layer="21"/>
+<wire x1="13.064" y1="1.5083" x2="13.064" y2="-1.5083" width="0.127" layer="21"/>
+<wire x1="13.064" y1="-1.5083" x2="-8.404" y2="-1.5083" width="0.127" layer="21"/>
+<wire x1="-8.404" y1="-1.5083" x2="-8.404" y2="1.5083" width="0.127" layer="21"/>
+<pad name="5" x="1.25" y="0" drill="0.9144" diameter="1.3716"/>
+<pad name="10" x="11.25" y="0" drill="0.9144" diameter="1.3716"/>
+<pad name="4" x="-0.75" y="0" drill="0.9144" diameter="1.3716"/>
+<pad name="9" x="9.25" y="0" drill="0.9144" diameter="1.3716"/>
+<pad name="3" x="-2.75" y="0" drill="0.9144" diameter="1.3716"/>
+<pad name="8" x="7.25" y="0" drill="0.9144" diameter="1.3716"/>
+<pad name="2" x="-4.75" y="0" drill="0.9144" diameter="1.3716"/>
+<pad name="7" x="5.25" y="0" drill="0.9144" diameter="1.3716"/>
+<pad name="1" x="-6.75" y="0" drill="0.9144" diameter="1.3716"/>
+<pad name="6" x="3.25" y="0" drill="0.9144" diameter="1.3716"/>
+<text x="-6.048" y="2.298" size="1.27" layer="25">&gt;NAME</text>
+<text x="-5.798" y="-3.064" size="1.27" layer="27">&gt;VALUE</text>
+</package>
 </packages>
 <symbols>
 <symbol name="STELLARISLAUNCHPADBLIZZARD">
@@ -985,6 +1056,39 @@ schematic can be found at http://www.ti.com/lit/ug/spmu290/spmu290.pdf</descript
 <pin name="2.19" x="0" y="-27.94" visible="pin" length="middle"/>
 <pin name="2.20" x="35.56" y="-27.94" visible="pin" length="middle" rot="R180"/>
 </symbol>
+<symbol name="XBEE">
+<description>XBee S1 / Pro Pinout</description>
+<wire x1="-20.32" y1="45.72" x2="20.32" y2="45.72" width="0.254" layer="94"/>
+<wire x1="20.32" y1="45.72" x2="22.86" y2="43.18" width="0.254" layer="94"/>
+<wire x1="22.86" y1="43.18" x2="35.56" y2="30.48" width="0.254" layer="94"/>
+<wire x1="35.56" y1="30.48" x2="35.56" y2="-20.32" width="0.254" layer="94"/>
+<wire x1="35.56" y1="-20.32" x2="35.56" y2="-25.4" width="0.254" layer="94"/>
+<wire x1="35.56" y1="-25.4" x2="-35.56" y2="-25.4" width="0.254" layer="94"/>
+<wire x1="-35.56" y1="-25.4" x2="-35.56" y2="30.48" width="0.254" layer="94"/>
+<wire x1="-35.56" y1="30.48" x2="-20.32" y2="45.72" width="0.254" layer="94"/>
+<pin name="VCC" x="-40.64" y="25.4" length="middle"/>
+<pin name="DOUT" x="-40.64" y="20.32" length="middle"/>
+<pin name="DIN" x="-40.64" y="15.24" length="middle"/>
+<pin name="DO8" x="-40.64" y="10.16" length="middle"/>
+<pin name="!RESET" x="-40.64" y="5.08" length="middle"/>
+<pin name="PWM0/RSSI" x="-40.64" y="0" length="middle"/>
+<pin name="PWM1" x="-40.64" y="-5.08" length="middle"/>
+<pin name="RESERVED" x="-40.64" y="-10.16" length="middle"/>
+<pin name="!DTR!/SLEEP_RQ/DI8" x="-40.64" y="-15.24" length="middle"/>
+<pin name="GND" x="-40.64" y="-20.32" length="middle"/>
+<pin name="AD4/DIO4" x="40.64" y="-20.32" length="middle" rot="R180"/>
+<pin name="!CTS!/DIO7" x="40.64" y="-15.24" length="middle" rot="R180"/>
+<pin name="ON/!SLEEP!" x="40.64" y="-10.16" length="middle" rot="R180"/>
+<pin name="VREF" x="40.64" y="-5.08" length="middle" rot="R180"/>
+<pin name="ASC/AD5/DIO5" x="40.64" y="0" length="middle" rot="R180"/>
+<pin name="!RTS!/AD6/DIO6" x="40.64" y="5.08" length="middle" rot="R180"/>
+<pin name="AD3/DIO3" x="40.64" y="10.16" length="middle" rot="R180"/>
+<pin name="AD2/DIO2" x="40.64" y="15.24" length="middle" rot="R180"/>
+<pin name="AD1/DIO1" x="40.64" y="20.32" length="middle" rot="R180"/>
+<pin name="AD0/DIO0" x="40.64" y="25.4" length="middle" rot="R180"/>
+<text x="-5.08" y="-30.48" size="1.778" layer="94">&gt;NAME</text>
+<text x="-2.54" y="38.1" size="1.778" layer="94">XBee</text>
+</symbol>
 </symbols>
 <devicesets>
 <deviceset name="STELLARIS_LAUNCHPAD_BLIZZARD_XL_HEADERS">
@@ -1153,6 +1257,41 @@ The part that goes on top of this is samtec</description>
 <connect gate="G$1" pin="U1RTS" pad="3"/>
 <connect gate="G$1" pin="U1RX" pad="9"/>
 <connect gate="G$1" pin="U1TX" pad="7"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="XBEE_HEADERS" uservalue="yes">
+<description>XBee S1 / XBee Pro</description>
+<gates>
+<gate name="G$1" symbol="XBEE" x="0" y="-7.62"/>
+</gates>
+<devices>
+<device name="" package="XBEE_HEADERS">
+<connects>
+<connect gate="G$1" pin="!CTS!/DIO7" pad="12"/>
+<connect gate="G$1" pin="!DTR!/SLEEP_RQ/DI8" pad="9"/>
+<connect gate="G$1" pin="!RESET" pad="5"/>
+<connect gate="G$1" pin="!RTS!/AD6/DIO6" pad="16"/>
+<connect gate="G$1" pin="AD0/DIO0" pad="20"/>
+<connect gate="G$1" pin="AD1/DIO1" pad="19"/>
+<connect gate="G$1" pin="AD2/DIO2" pad="18"/>
+<connect gate="G$1" pin="AD3/DIO3" pad="17"/>
+<connect gate="G$1" pin="AD4/DIO4" pad="11"/>
+<connect gate="G$1" pin="ASC/AD5/DIO5" pad="15"/>
+<connect gate="G$1" pin="DIN" pad="3"/>
+<connect gate="G$1" pin="DO8" pad="4"/>
+<connect gate="G$1" pin="DOUT" pad="2"/>
+<connect gate="G$1" pin="GND" pad="10"/>
+<connect gate="G$1" pin="ON/!SLEEP!" pad="13"/>
+<connect gate="G$1" pin="PWM0/RSSI" pad="6"/>
+<connect gate="G$1" pin="PWM1" pad="7"/>
+<connect gate="G$1" pin="RESERVED" pad="8"/>
+<connect gate="G$1" pin="VCC" pad="1"/>
+<connect gate="G$1" pin="VREF" pad="14"/>
 </connects>
 <technologies>
 <technology name=""/>
