@@ -125,7 +125,7 @@
 <wire x1="74.6" y1="15.24" x2="74.6" y2="60.95" width="0" layer="20"/>
 <wire x1="74.6" y1="60.95" x2="21.59" y2="60.95" width="0" layer="20"/>
 <wire x1="21.59" y1="60.95" x2="21.59" y2="15.24" width="0" layer="20"/>
-<text x="34.29" y="24.13" size="1.778" layer="121">XBee LaunchPad V1.0</text>
+<text x="34.29" y="24.13" size="1.778" layer="121">XBee BoosterPack V1.1</text>
 <text x="48.26" y="31.75" size="1.778" layer="121" rot="R90">Austin</text>
 <text x="50.8" y="31.75" size="1.778" layer="121" rot="R90">Blackstone</text>
 <text x="53.34" y="31.75" size="1.778" layer="121" rot="R90">Engineering</text>
