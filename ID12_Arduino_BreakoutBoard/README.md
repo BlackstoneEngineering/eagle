@@ -14,7 +14,7 @@ The following are pictures of both the schamic and the finished product.
 Schematic
 ![Schematic](https://github.com/BlackstoneEngineering/eagle/blob/master/ID12_Arduino_BreakoutBoard/Schematic.png)
 
-Board Layout
+Board Layout<br>
 ![BoardLayout](https://github.com/BlackstoneEngineering/eagle/blob/master/ID12_Arduino_BreakoutBoard/BoardLayout.png)
 
 Finished Product 
