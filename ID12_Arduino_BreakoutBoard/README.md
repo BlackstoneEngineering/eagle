@@ -17,8 +17,5 @@ Schematic
 Board Layout
 ![BoardLayout](https://github.com/BlackstoneEngineering/eagle/blob/master/ID12_Arduino_BreakoutBoard/BoardLayout.png)
 
-Finished Product Unpolulated
-![Final_Unpopulated](https://github.com/BlackstoneEngineering/eagle/blob/master/ID12_Arduino_BreakoutBoard/picture_pcb.jpg)
-
-Finished Product Populated
-![Final_Populated](https://github.com/BlackstoneEngineering/eagle/blob/master/ID12_Arduino_BreakoutBoard/picture_pcb%2Bsensor.jpg)
+Finished Product 
+![Final_Unpopulated](https://github.com/BlackstoneEngineering/eagle/blob/master/ID12_Arduino_BreakoutBoard/picture_pcb.jpg) ![Final_Populated](https://github.com/BlackstoneEngineering/eagle/blob/master/ID12_Arduino_BreakoutBoard/picture_pcb%2Bsensor.jpg)
