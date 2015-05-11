@@ -14,3 +14,18 @@ Features:
 - TX/RX lines broken out to Seeed Grove Header
 - Jumper for Firmware Update mode
 
+Here you can see the Minimal breakout board schematic and board layout files
+![Schematic](https://github.com/BlackstoneEngineering/eagle/blob/master/ESP8266%20Seeed%20Breakout%20Board/minimalSchematic.JPG)
+![PCBLayout](https://github.com/BlackstoneEngineering/eagle/blob/master/ESP8266%20Seeed%20Breakout%20Board/minimalBoardlayout.JPG)
+
+Here you can see the bare PCB -> assembled PCB -> PCB + ESP8266-01 chip.
+![assembly](https://github.com/BlackstoneEngineering/eagle/blob/master/ESP8266%20Seeed%20Breakout%20Board/boards.jpg)
+
+Here you can see the board hooked up to a Seeed Grove shield for use
+![seeed](https://github.com/BlackstoneEngineering/eagle/blob/master/ESP8266%20Seeed%20Breakout%20Board/minimalAssembly.jpg)
+
+## Order your own
+You can order these PCB's  from oshpark here : 
+* [Minimal PCB Page](https://oshpark.com/shared_projects/CQHJGKSS)
+* [Full PCB Page](https://oshpark.com/shared_projects/uuOL5hfV )
+
