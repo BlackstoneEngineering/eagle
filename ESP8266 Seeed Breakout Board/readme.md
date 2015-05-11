@@ -29,3 +29,5 @@ You can order these PCB's  from oshpark here :
 * [Minimal PCB Page](https://oshpark.com/shared_projects/CQHJGKSS)
 * [Full PCB Page](https://oshpark.com/shared_projects/uuOL5hfV )
 
+## Code
+To program the boards you can either use a ton of th existing code, or you can take a look at the code i'm working on at developer.mbed.org/teams/ESP8266. We have examples on using the ESP8266 as a peripheral device over UART and on how to udate the firmware.
